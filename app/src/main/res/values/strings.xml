@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">List View Coffee Shop Palu</string>
+    <string name="name_kopis">Nama Coffee Shop</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Ahlaami Kopi</item>
+        <item>Kopi Aweng</item>
+        <item>Billys Kopi</item>
+        <item>Box Kopi</item>
+        <item>Brkh Kopi</item>
+        <item>Empat Belas Roaster</item>
+        <item>MB Kopi</item>
+        <item>Ruang Kopi</item>
+        <item>psychopi</item>
+        <item>Mr.Dav</item>
+        <item>Kopi Ride</item>
+        <item>Kopi Taro</item>
+        <item>My Kopi O</item>
+        <item>Roemah Kopi</item>
+        <item>Galaxy Kopi</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Ahlaami kopi adalah tempat yang menyajikan KOPI, dan
+                minuman lainnya tergantung pada kebudayaan setempat
+                Ahlaami kopi berada di jalan Cemara yang berlokasi tidak jauh dari
+                areal Rumah Sakit.</item>
+        <item>Aweng Kopi adalah salah satu tempat yang menyajikan minuman khusus-nya KOPI.
+                Aweng Kopi tak hanya menyediakan Kopi tapi juga terdapat makanan cemilan baik itu
+                stik pisang dan masih banyak lainnya
+                Aweng Kopi berada di jalan Chairil Anwar yang berlokasi tidak jauh dari
+                areal Pendidikan.</item>
+        <item>Billys Kopi adalah salah satu tempat yang menyajikan minuman khusus-nya KOPI,
+                serta minuman lainnya.
+                Billys Kopi tak hanya menyediakan Kopi tapi juga terdapat makanan berupa Bakery dan
+                juga terdapat saran zumba.
+                Billys Kopi berada di jalan Kakatua yang berlokasi tidak jauh dari
+                areal Pusat Kota.</item>
+        <item>Box Kopi adalah salah satu tempat yang menyajikan minuman khusus-nya KOPI,
+                serta minuman lainnya.
+                Box Kopi berada di jalan Suprapto yang berlokasi tidak jauh dari
+                areal Pendidikan.</item>
+        <item>BRKH Kopi adalah salah satu tempat yang menyajikan minuman khusus-nya KOPI,
+                serta minuman lainnya BRKH Kopi berada di jalan R.E Martadinata yang
+                berlokasi tidak jauh dari areal kampus</item>
+        <item>14 Roaster adalah 14 Roaster berada di jalan R.A.Kartini yang berlokasi tidak jauh dari
+                areal Perkantoran berjarak 5 menit dari pusat kota.</item>
+        <item>MB Kopi adalah salah satu tempat yang menyajikan minuman khusus-nya KOPI,
+                serta minuman lainnya.
+                MB kopi tak hanya menyediakan Kopi tapi juga terdapat makanan berupa Bakery
+                MB kopi berada di jalan Ahmad Yani yang berlokasi tidak jauh dari
+                areal Perkantoran.</item>
+        <item>Ruang Kopi adalah tempat yang menyajikan KOPI, dan minuman lainnya
+                Ruang Kopi tak hanya menyediakan Kopi tapi juga terdapat makanan cemilan baik itu
+                stik pisang dan masih banyak lainnya
+                Ruang Kopi berada di jalan Balai Kota Timur yang berlokasi tidak jauh dari
+                areal Pusat Kota.</item>
+        <item>Phsyco Kopi adalah salah satu tempat yang menyajikan minuman khusus-nya KOPI,
+                serta minuman lainnya.
+                psycho Kopi berada di jalan M.H Thamrin</item>
+        <item>Mr.Dav adalah tempat yang menyajikan KOPI, dan
+                minuman lainnya tergantung pada kebudayaan setempat
+                Mr.Dav Kopi tak hanya menyediakan Kopi tapi juga terdapat makanan berat juga cemilan
+                baik itu stik pisan dan masih banyak lainnya
+                Mr.Dav Kopi berada di jalan Brigjen Katamso yang berlokasi tidak jauh dari
+                areal Perkantoran/Kantor Gubernur Palu.</item>
+        <item>Kopi Ride adalah salah satu tempat yang menyajikan minuman khusus-nya KOPI,
+                serta minuman lainnya. Kopi Ride berada di jalan Gatot Subroto yang berlokasi tidak jauh dari
+                areal Perkantoran dan pusat perbelanjaan</item>
+        <item>Kopi Taro adalah salah satu tempat yang menyajikan minuman khusus-nya KOPI .
+                Kopi Taro tak hanya menyediakan Kopi tapi juga terdapat makanan cemilan.
+                Kopi Taro berada di jalan Brigjen Katamso yang berlokasi tidak jauh dari
+                areal Perkantoran/Kantor Gubernur Palu.</item>
+        <item>My Kopi O adalah salah satu tempat yang menyajikan minuman khusus-nya KOPI,
+                serta minuman lainnya. My Kopi O berada di jalan R.A.Kartini yang berlokasi tidak jauh dari
+                areal Perkantoran berjarak 5 menit dari pusat kota.</item>
+        <item>Roemah Kopi adalah tempat yang menyajikan KOPI, dan
+                minuman lainnya tergantung pada kebudayaan setempat
+                Roemah Kopi tak hanya menyediakan Kopi tapi juga terdapat makanan berupa Waffel
+                Roemah Kopi berada di jalan Sultan Hasanuddin yang berlokasi tidak jauh dari
+                areal Perkantoran/Perbankan.</item>
+        <item>Galaxy Kopi adalah salah satu tempat yang menyajikan minuman khusus-nya KOPI,
+                serta minuman lainnya.
+                Galaxy kopi berada di jalan Tanjung Pesik yang berlokasi tidak jauh dari
+                areal Perkantoran.</item>
+    </string-array>
+    
+    <array name="data_photo">
+        <item>@drawable/ahlaami</item>
+        <item>@drawable/aweng</item>
+        <item>@drawable/billys</item>
+        <item>@drawable/box</item>
+        <item>@drawable/brkh</item>
+        <item>@drawable/empat_belas</item>
+        <item>@drawable/mb</item>
+        <item>@drawable/ruang_kopi</item>
+        <item>@drawable/psycho</item>
+        <item>@drawable/mr_dav</item>
+        <item>@drawable/ride</item>
+        <item>@drawable/taro</item>
+        <item>@drawable/my_kopi_o</item>
+        <item>@drawable/roemah</item>
+        <item>@drawable/galaxy</item>
+
+
+    </array>
+
+</resources>
